@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuickDemoY2021M10D22:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuickDemoY2021M10D22_jar</output-path>
+    <root id="archive" name="QuickDemoY2021M10D22.jar">
+      <element id="module-output" name="QuickDemoY2021M10D22" />
+    </root>
+  </artifact>
+</component>
